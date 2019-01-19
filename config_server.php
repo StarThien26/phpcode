@@ -1,5 +1,6 @@
 <?php
 error_reporting(0);
+date_default_timezone_set('Asia/Ho_Chi_Minh');
 $config_db = array(
 	'db_host' => '139.99.44.50',
 	'db_user' => 'root',                      
